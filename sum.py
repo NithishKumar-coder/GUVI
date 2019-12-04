@@ -6,4 +6,4 @@ try:
       S=S-1
   print(y)
 except:
-  print('invalid')
+  print('input error')
